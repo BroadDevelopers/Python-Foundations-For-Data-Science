@@ -1,0 +1,4 @@
+wordcount6Teacher: Why are you late, Jake?
+wordcount4Jake: Because of traffic
+wordcount3Teacher: What traffic?
+wordcount6Jake: The one on the highway
